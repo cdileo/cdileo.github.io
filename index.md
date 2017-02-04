@@ -3,7 +3,9 @@
 This site is currently under construction. For now, please take a look at my [github profile](https://github.com/cdileo/) instead.
 
 ## Past Projects 
+
 ### Global Game Jams 
+
 #### 2016
 
 ##### Whales Hate Birds
