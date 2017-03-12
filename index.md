@@ -1,8 +1,16 @@
-## Welcome to My Landing Page
+## Welcome to my landing page
 
-This site is currently under construction. For now, please take a look at my [github profile](https://github.com/cdileo/) instead.
+This site is periodically updated. For a complete inventory of projects, please take a look at my [github profile](https://github.com/cdileo/).
 
 ## Past Projects 
+
+### Academic
+
+#### COGS 300 Maze Pathfinder
+
+A basic maze pathfinding robot for Cognitive Systems 300 lab at UBC. Built on Ardunio and Lego.
+
+[See it in action.](https://youtu.be/4mDvREA03Bs)
 
 ### Global Game Jams 
 
