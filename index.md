@@ -4,15 +4,16 @@ This site is periodically updated. For a complete inventory of projects, please 
 
 ## Past Projects 
 
-### Academic
-
-#### COGS 300 Maze Pathfinder
-
-A basic maze pathfinding robot for Cognitive Systems 300 lab at UBC. Built on Ardunio and Lego.
-
-[See it in action.](https://youtu.be/4mDvREA03Bs)
-
 ### Global Game Jams 
+#### 2018
+
+##### Space Golf
+
+2D 2-player game based around losing control while gaining power in a loosely golf-like scenario. In space.
+
+Built in Phaser.
+
+Play it [here](https://cdileo.github.io/GGJ2018/).
 
 #### 2016
 
@@ -49,6 +50,14 @@ A 3D first-person dungeon crawler made in Unity.
 [Repository](https://github.com/WoongGun/MazeEffect)
 
 [GGJ Project Page](http://globalgamejam.org/2015/games/maze-effect)
+
+### Academic
+
+#### COGS 300 Maze Pathfinder
+
+A basic maze pathfinding robot for Cognitive Systems 300 lab at UBC. Built on Ardunio and Lego.
+
+[See it in action.](https://youtu.be/4mDvREA03Bs)
 
 ## Toyota Hyriders
 A joint effort with a team from the Center for Digital Media in Vancouver to create interactive marketing material for Toyota hybrid vehicles.
